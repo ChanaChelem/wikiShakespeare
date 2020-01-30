@@ -1,0 +1,14 @@
+uuid: 29775070-5367-4728-b38e-178263ce3e0d
+name: WikiShakespeare
+mail: chana@chelem.co.il
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
